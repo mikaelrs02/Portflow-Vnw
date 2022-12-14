@@ -52,7 +52,7 @@ header {
   width: 100%;
   height: 80vh;
   display: flex;
-  background-image: url(/assets/laranja\ azul\ recorte.png);
+  background-image: url("/assets/laranja\ azul\ recorte.png");
   background-size: 100%;
   align-items: center;
  }
