@@ -51,15 +51,15 @@ header h1{
     height: 39vh;
 }
 .imagensFooter{
-    border: solid #000;
     width: auto;
     height: auto;
+    margin-top: 20vh;
 }
 
 .ImagemFooter{
-width: 1.8vw;
+width: 3.8vw;
   }
 .ImagemFooterface{
-width: 0.8vw;
+width: 2.8vw;
   }
 }
