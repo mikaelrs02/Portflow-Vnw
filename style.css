@@ -54,7 +54,6 @@ header {
   display: flex;
   background-image: url(/assets/laranja\ azul\ recorte.png);
   background-size: 100%;
-  background-repeat: no-repeat;
   align-items: center;
  }
 .imgLaranja{

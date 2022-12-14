@@ -26,7 +26,7 @@ header h1{
     flex-direction: column;
     width: 100%;
     height: 70vh;
-    background-image: url(/assets/laranja\ azul\ recorte.png);
+    background-image: url(/assets/laranja.Mobile.png);
 }
 .textoLaranja{
     font-size: 3rem;
